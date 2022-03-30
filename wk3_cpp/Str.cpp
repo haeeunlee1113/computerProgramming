@@ -1,4 +1,4 @@
->
+#include <cstring>
 #include<iostream>
 #include "Str.h"
 using namespace std;
